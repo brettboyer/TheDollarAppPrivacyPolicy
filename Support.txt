@@ -1,0 +1,5 @@
+Here is the support doc:
+
+Where there are bugs and fixes or how-tos, they will be posted here.
+
+Thanks!
